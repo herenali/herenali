@@ -1,9 +1,11 @@
 <div align="center">
-  <img align="right" />
-  <pre>
-      🍎 Computer Science Specialist + Linguistics Minor @ UofT
-      🍏 Hello Kitty enthusiast 
-  </pre>
+<pre>
+  🍎 Computer Science Specialist + Linguistics Minor @ UofT 🍎
+  🍏 Hello Kitty enthusiast 🍏
+  🍓 Currently working on my porfolio website 🍓
+</pre>
+
+[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/herena-li)
 </div>
 
 <!---
