@@ -1,5 +1,7 @@
 <div align="center">
+<img src="assets/hello-kitty.jpeg" align="right" height="150px"/>
 <pre>
+  Hello! I'm Herena :D
   🍎 Computer Science Specialist + Linguistics Minor @ UofT 🍎
   🍏 Hello Kitty enthusiast 🍏
   🍓 Currently working on my porfolio website 🍓
