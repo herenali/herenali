@@ -4,7 +4,7 @@
   Hello! I'm Herena :D
   🍎 Computer Science Specialist + Linguistics Minor @ UofT 🍎
   🍏 Hello Kitty enthusiast 🍏
-  🍓 Currently working on my porfolio website 🍓
+  🍓 Currently working on a web app for applying gradient map filters! 🍓
 </pre>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/herena-li)
